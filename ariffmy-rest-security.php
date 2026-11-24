@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/ariffmy/wp-rest-api-access-protection
  * Description: Restricts public REST API discovery, namespace indexes and user enumeration.
  * Version: 2.2.0
- * Author: Ariff Samani
+ * Author: ariff.my
  * Author URI: https://ariff.my/
  * License: GPL-2.0-or-later
  * Text Domain: ariffmy-rest-security
